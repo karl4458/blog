@@ -1,4 +1,4 @@
-module github.com/karl4458/karl4458.github.io
+module github.com/karl4458/blog
 
 go 1.21.5
 
